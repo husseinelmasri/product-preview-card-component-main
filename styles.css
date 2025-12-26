@@ -68,6 +68,7 @@ picture,
 .current-price {
   font-family: 'Fraunces', serif;
   font-size: 2rem;
+  font-weight: 700;
   color: hsl(158, 36%, 37%);
 }
 
